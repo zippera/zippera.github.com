@@ -1,39 +1,39 @@
 ---
 layout: post
-title: "ʮ����������ƽ̨��Ӳ��"
+title: "十个常见博客平台的硬伤"
 description: "which blog to choose"
-category: ����
-tags: [����]
+category: 博客
+tags: [博客]
 ---
 {% include JB/setup %}
-> �����ѡ��һ���ʺ��Լ��Ĳ���ƽ̨���Ѿɲ���Ų��ȥ���²���Ҳ�ڴ˿��ѡ��˽�ͳ����˺ܶ಩�ͣ��չ�û�ҵ�һ������ķ����������ܽ�һ��10����������ƽ̨��ȱ�㣬�ŵ�Ͳ���˵�ˣ����ڼ��к����ԣ�����ָ����
+> 最近在选择一个适合自己的博客平台，把旧博文挪过去，新博文也在此开垦。了解和尝试了很多博客，终归没找到一个满意的方案。下面总结一下10个常见博客平台的缺点，优点就不必说了（存在即有合理性）。请指正！
 
-1. ��㡢lofter   
- * �������Ӹ�ʽ���á�
+1. 点点、lofter   
+ * 文章链接格式不好。
 
 2. tumblr
- * ǽ���ٶȡ�
+ * 墙、速度。
 
 3. wordpress
- * ��ҪVPS����֧��markdown��
+ * 需要VPS，不支持markdown。
 
 4. Typecho
- * ��ҪVPS��������ȫ���ס�
+ * 需要VPS，不够安全靠谱。
 
 5. Github
- * ���ڣ����ڣ����ڡ�
+ * 折腾，折腾，折腾。
 
 6. farbox
- * ƽ̨��ȫ���ȶ��ԡ�
+ * 平台安全、稳定性。
 
-7. ����
- * ƽ̨��ȫ���ȶ��ԣ��������Ӹ�ʽ���á�
+7. 简书
+ * 平台安全、稳定性；文章链接格式不好。
 
 8. csdn
- * ��֧�ְ���������֧��markdown��
+ * 不支持绑定域名，不支持markdown。
 
-9. ���˲��ͣ�and all the like��
- * ���߰��㣻��֧�ְ�������
+9. 新浪博客（and all the like）
+ * 乌七八糟；不支持绑定域名。
 
 10. blogger
- * ǽ��
+ * 墙。
